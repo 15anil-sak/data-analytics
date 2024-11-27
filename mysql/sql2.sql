@@ -1,0 +1,1 @@
+select * from virat where Out/Not Out="Not Out";

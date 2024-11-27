@@ -1,0 +1,1 @@
+select count(Result) from virat where Result="Won";

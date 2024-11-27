@@ -1,0 +1,1 @@
+select Score, Venue from virat Where Score>=150;
