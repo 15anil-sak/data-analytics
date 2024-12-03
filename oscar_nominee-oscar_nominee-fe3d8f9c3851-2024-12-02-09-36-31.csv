@@ -1,0 +1,310 @@
+"year","category","actor","movie","winner","id"
+2012.0,"actress in a leading role","Jennifer Lawrence","Silver Linings Playbook",1.0,718
+2012.0,"actress in a supporting role","Anne Hathaway","Les Mis�rables",1.0,78
+2012.0,"actor in a supporting role","Christoph Waltz","Django Unchained",1.0,248
+2012.0,"actor in a leading role","Daniel Day-Lewis","Lincoln",1.0,288
+2011.0,"actor in a supporting role","Christopher Plummer","Beginners",1.0,250
+2011.0,"actress in a leading role","Meryl Streep","The Iron Lady",1.0,1066
+2011.0,"actor in a leading role","Jean Dujardin","The Artist",1.0,697
+2011.0,"actress in a supporting role","Octavia Spencer","The Help",1.0,1142
+2010.0,"actor in a supporting role","Christian Bale","The Fighter",1.0,245
+2010.0,"actress in a leading role","Natalie Portman","Black Swan",1.0,1122
+2010.0,"actress in a supporting role","Melissa Leo","The Fighter",1.0,1042
+2010.0,"actor in a leading role","Colin Firth","The King's Speech",1.0,273
+2009.0,"actress in a supporting role","Mo'Nique","Precious: Based on the Novel 'Push' by Sapphire",1.0,1105
+2009.0,"actress in a leading role","Sandra Bullock","The Blind Side",1.0,1336
+2009.0,"actor in a leading role","Jeff Bridges","Crazy Heart",1.0,707
+2009.0,"actor in a supporting role","Christoph Waltz","Inglourious Basterds",1.0,247
+2008.0,"actor in a supporting role","Heath Ledger","The Dark Knight",1.0,551
+2008.0,"actress in a supporting role","Pen�lope Cruz","Vicky Cristina Barcelona",1.0,1184
+2008.0,"actress in a leading role","Kate Winslet","The Reader",1.0,855
+2008.0,"actor in a leading role","Sean Penn","Milk",1.0,1346
+2007.0,"actress in a leading role","Marion Cotillard","La Vie en Rose",1.0,986
+2007.0,"actor in a supporting role","Javier Bardem","No Country for Old Men",1.0,693
+2007.0,"actress in a supporting role","Tilda Swinton","Michael Clayton",1.0,1442
+2007.0,"actor in a leading role","Daniel Day-Lewis","There Will Be Blood",1.0,287
+2006.0,"actress in a supporting role","Jennifer Hudson","Dreamgirls",1.0,711
+2006.0,"actress in a leading role","Helen Mirren","The Queen",1.0,557
+2006.0,"actor in a supporting role","Alan Arkin","Little Miss Sunshine",1.0,22
+2006.0,"actor in a leading role","Forest Whitaker","The Last King of Scotland",1.0,426
+2005.0,"actress in a leading role","Reese Witherspoon","Walk the Line",1.0,1229
+2005.0,"actor in a leading role","Philip Seymour Hoffman","Capote",1.0,1207
+2005.0,"actor in a supporting role","George Clooney","Syriana",1.0,476
+2005.0,"actress in a supporting role","Rachel Weisz","The Constant Gardener",1.0,1219
+2004.0,"actor in a leading role","Jamie Foxx","Ray",1.0,664
+2004.0,"actress in a supporting role","Cate Blanchett","The Aviator",1.0,204
+2004.0,"actor in a supporting role","Morgan Freeman","Million Dollar Baby",1.0,1115
+2004.0,"actress in a leading role","Hilary Swank","Million Dollar Baby",1.0,566
+2003.0,"actress in a leading role","Charlize Theron","Monster",1.0,234
+2003.0,"actress in a supporting role","Ren�e Zellweger","Cold Mountain",1.0,1232
+2003.0,"actor in a leading role","Sean Penn","Mystic River",1.0,1345
+2003.0,"actor in a supporting role","Tim Robbins","Mystic River",1.0,1443
+2002.0,"actor in a leading role","Adrien Brody","The Pianist",1.0,4
+2002.0,"actor in a supporting role","Chris Cooper","Adaptation",1.0,243
+2002.0,"actress in a supporting role","Catherine Zeta-Jones","Chicago",1.0,212
+2002.0,"actress in a leading role","Nicole Kidman","The Hours",1.0,1134
+2001.0,"actor in a leading role","Denzel Washington","Training Day",1.0,313
+2001.0,"actor in a supporting role","Jim Broadbent","Iris",1.0,736
+2001.0,"actress in a supporting role","Jennifer Connelly","A Beautiful Mind",1.0,710
+2001.0,"actress in a leading role","Halle Berry","Monster's Ball",1.0,544
+2000.0,"actress in a supporting role","Marcia Gay Harden","Pollock",1.0,973
+2000.0,"actor in a supporting role","Benicio Del Toro","Traffic",1.0,138
+2000.0,"actor in a leading role","Russell Crowe","Gladiator",1.0,1314
+2000.0,"actress in a leading role","Julia Roberts","Erin Brockovich",1.0,826
+1999.0,"actress in a supporting role","Angelina Jolie","Girl, Interrupted",1.0,56
+1999.0,"actor in a supporting role","Michael Caine","The Cider House Rules",1.0,1071
+1999.0,"actress in a leading role","Hilary Swank","Boys Don't Cry",1.0,565
+1999.0,"actor in a leading role","Kevin Spacey","American Beauty",1.0,884
+1998.0,"actor in a supporting role","James Coburn","Affliction",1.0,641
+1998.0,"actor in a leading role","Roberto Benigni","Life Is Beautiful",1.0,1287
+1998.0,"actress in a supporting role","Judi Dench","Shakespeare in Love",1.0,813
+1998.0,"actress in a leading role","Gwyneth Paltrow","Shakespeare in Love",1.0,538
+1997.0,"actress in a supporting role","Kim Basinger","L.A. Confidential",1.0,885
+1997.0,"actor in a supporting role","Robin Williams","Good Will Hunting",1.0,1291
+1997.0,"actor in a leading role","Jack Nicholson","As Good as It Gets",1.0,623
+1997.0,"actress in a leading role","Helen Hunt","As Good as It Gets",1.0,553
+1996.0,"actor in a leading role","Geoffrey Rush","Shine",1.0,466
+1996.0,"actress in a leading role","Frances McDormand","Fargo",1.0,428
+1996.0,"actor in a supporting role","Cuba Gooding, Jr.","Jerry Maguire",1.0,275
+1996.0,"actress in a supporting role","Juliette Binoche","The English Patient",1.0,841
+1995.0,"actress in a supporting role","Mira Sorvino","Mighty Aphrodite",1.0,1100
+1995.0,"actor in a supporting role","Kevin Spacey","The Usual Suspects",1.0,883
+1995.0,"actress in a leading role","Susan Sarandon","Dead Man Walking",1.0,1410
+1995.0,"actor in a leading role","Nicolas Cage","Leaving Las Vegas",1.0,1131
+1994.0,"actor in a supporting role","Martin Landau","Ed Wood",1.0,1014
+1994.0,"actor in a leading role","Tom Hanks","Forrest Gump",1.0,1455
+1994.0,"actress in a leading role","Jessica Lange","Blue Sky",1.0,731
+1994.0,"actress in a supporting role","Dianne Wiest","Bullets over Broadway",1.0,331
+1993.0,"actress in a leading role","Holly Hunter","The Piano",1.0,568
+1993.0,"actress in a supporting role","Anna Paquin","The Piano",1.0,68
+1993.0,"actor in a supporting role","Tommy Lee Jones","The Fugitive",1.0,1463
+1993.0,"actor in a leading role","Tom Hanks","Philadelphia",1.0,1454
+1992.0,"actress in a leading role","Emma Thompson","Howards End",1.0,397
+1992.0,"actress in a supporting role","Marisa Tomei","My Cousin Vinny",1.0,988
+1992.0,"actor in a supporting role","Gene Hackman","Unforgiven",1.0,460
+1992.0,"actor in a leading role","Al Pacino","Scent of a Woman",1.0,17
+1991.0,"actress in a supporting role","Mercedes Ruehl","The Fisher King",1.0,1049
+1991.0,"actress in a leading role","Jodie Foster","The Silence of the Lambs",1.0,763
+1991.0,"actor in a leading role","Anthony Hopkins","The Silence of the Lambs",1.0,90
+1991.0,"actor in a supporting role","Jack Palance","City Slickers",1.0,628
+1990.0,"actor in a leading role","Jeremy Irons","Reversal of Fortune",1.0,720
+1990.0,"actor in a supporting role","Joe Pesci","Good Fellas",1.0,767
+1990.0,"actress in a supporting role","Whoopi Goldberg","Ghost",1.0,1516
+1990.0,"actress in a leading role","Kathy Bates","Misery",1.0,869
+1989.0,"actress in a supporting role","Brenda Fricker","My Left Foot",1.0,173
+1989.0,"actress in a leading role","Jessica Tandy","Driving Miss Daisy",1.0,732
+1989.0,"actor in a supporting role","Denzel Washington","Glory",1.0,310
+1989.0,"actor in a leading role","Daniel Day Lewis","My Left Foot",1.0,284
+1988.0,"actor in a leading role","Dustin Hoffman","Rain Man",1.0,349
+1988.0,"actress in a leading role","Jodie Foster","The Accused",1.0,762
+1988.0,"actress in a supporting role","Geena Davis","The Accidental Tourist",1.0,452
+1988.0,"actor in a supporting role","Kevin Kline","A Fish Called Wanda",1.0,881
+1987.0,"actor in a supporting role","Sean Connery","The Untouchables",1.0,1341
+1987.0,"actress in a leading role","Cher","Moonstruck",1.0,239
+1987.0,"actor in a leading role","Michael Douglas","Wall Street",1.0,1075
+1987.0,"actress in a supporting role","Olympia Dukakis","Moonstruck",1.0,1148
+1986.0,"actor in a leading role","Paul Newman","The Color of Money",1.0,1171
+1986.0,"actor in a supporting role","Michael Caine","Hannah and Her Sisters",1.0,1070
+1986.0,"actress in a leading role","Marlee Matlin","Children of a Lesser God",1.0,996
+1986.0,"actress in a supporting role","Dianne Wiest","Hannah and Her Sisters",1.0,329
+1985.0,"actress in a leading role","Geraldine Page","The Trip to Bountiful",1.0,491
+1985.0,"actor in a leading role","William Hurt","Kiss of the Spider Woman",1.0,1529
+1985.0,"actress in a supporting role","Anjelica Huston","Prizzi's Honor",1.0,58
+1985.0,"actor in a supporting role","Don Ameche","Cocoon",1.0,334
+1984.0,"actor in a supporting role","Haing S. Ngor","The Killing Fields",1.0,541
+1984.0,"actress in a supporting role","Peggy Ashcroft","A Passage to India",1.0,1179
+1984.0,"actor in a leading role","F. Murray Abraham","Amadeus",1.0,416
+1984.0,"actress in a leading role","Sally Field","Places in the Heart",1.0,1324
+1983.0,"actress in a leading role","Shirley MacLaine","Terms of Endearment",1.0,1362
+1983.0,"actress in a supporting role","Linda Hunt","The Year of Living Dangerously",1.0,940
+1983.0,"actor in a leading role","Robert Duvall","Tender Mercies",1.0,1271
+1983.0,"actor in a supporting role","Jack Nicholson","Terms of Endearment",1.0,619
+1982.0,"actor in a leading role","Ben Kingsley","Gandhi",1.0,134
+1982.0,"actor in a supporting role","Louis Gossett, Jr.","An Officer and a Gentleman",1.0,951
+1982.0,"actress in a supporting role","Jessica Lange","Tootsie",1.0,727
+1982.0,"actress in a leading role","Meryl Streep","Sophie's Choice",1.0,1053
+1981.0,"actress in a leading role","Katharine Hepburn","On Golden Pond",1.0,865
+1981.0,"actor in a supporting role","John Gielgud","Arthur",1.0,775
+1981.0,"actress in a supporting role","Maureen Stapleton","Reds",1.0,1030
+1981.0,"actor in a leading role","Henry Fonda","On Golden Pond",1.0,562
+1980.0,"actress in a leading role","Sissy Spacek","Coal Miner's Daughter",1.0,1373
+1980.0,"actor in a leading role","Robert De Niro","Raging Bull",1.0,1260
+1980.0,"actor in a supporting role","Timothy Hutton","Ordinary People",1.0,1445
+1980.0,"actress in a supporting role","Mary Steenburgen","Melvin and Howard",1.0,1020
+1979.0,"actress in a leading role","Sally Field","Norma Rae",1.0,1323
+1979.0,"actor in a supporting role","Melvyn Douglas","Being There",1.0,1046
+1979.0,"actress in a supporting role","Meryl Streep","Kramer vs. Kramer",1.0,1051
+1979.0,"actor in a leading role","Dustin Hoffman","Kramer vs. Kramer",1.0,347
+1978.0,"actress in a supporting role","Maggie Smith","California Suite",1.0,966
+1978.0,"actress in a leading role","Jane Fonda","Coming Home",1.0,675
+1978.0,"actor in a leading role","Jon Voight","Coming Home",1.0,796
+1978.0,"actor in a supporting role","Christopher Walken","The Deer Hunter",1.0,251
+1977.0,"actress in a leading role","Diane Keaton","Annie Hall",1.0,320
+1977.0,"actor in a leading role","Richard Dreyfuss","The Goodbye Girl",1.0,1243
+1977.0,"actress in a supporting role","Vanessa Redgrave","Julia",1.0,1479
+1977.0,"actor in a supporting role","Jason Robards","Julia",1.0,690
+1976.0,"actress in a leading role","Faye Dunaway","Network",1.0,422
+1976.0,"actress in a supporting role","Beatrice Straight","Network",1.0,132
+1976.0,"actor in a supporting role","Jason Robards","All the President's Men",1.0,689
+1976.0,"actor in a leading role","Peter Finch","Network",1.0,1191
+1975.0,"actress in a supporting role","Lee Grant","Shampoo",1.0,914
+1975.0,"actor","Jack Nicholson","One Flew over the Cuckoo's Nest",1.0,617
+1975.0,"actor in a supporting role","George Burns","The Sunshine Boys",1.0,470
+1975.0,"actress","Louise Fletcher","One Flew over the Cuckoo's Nest",1.0,952
+1974.0,"actress","Ellen Burstyn","Alice Doesn't Live Here Anymore",1.0,386
+1974.0,"actor in a supporting role","Robert De Niro","The Godfather Part II",1.0,1257
+1974.0,"actor","Art Carney","Harry and Tonto",1.0,101
+1974.0,"actress in a supporting role","Ingrid Bergman","Murder on the Orient Express",1.0,592
+1973.0,"actress","Glenda Jackson","A Touch of Class",1.0,504
+1973.0,"actor in a supporting role","John Houseman","The Paper Chase",1.0,777
+1973.0,"actress in a supporting role","Tatum O'Neal","Paper Moon",1.0,1421
+1973.0,"actor","Jack Lemmon","Save the Tiger",1.0,609
+1972.0,"actress in a supporting role","Eileen Heckart","Butterflies Are Free",1.0,372
+1972.0,"actor","Marlon Brando","The Godfather",1.0,1002
+1972.0,"actor in a supporting role","Joel Grey","Cabaret",1.0,768
+1972.0,"actress","Liza Minnelli","Cabaret",1.0,945
+1971.0,"actor","Gene Hackman","The French Connection",1.0,458
+1971.0,"actress","Jane Fonda","Klute",1.0,673
+1971.0,"actress in a supporting role","Cloris Leachman","The Last Picture Show",1.0,270
+1971.0,"actor in a supporting role","Ben Johnson","The Last Picture Show",1.0,133
+1970.0,"actress in a supporting role","Helen Hayes","Airport",1.0,552
+1970.0,"actor","George C. Scott","Patton",1.0,473
+1970.0,"actor in a supporting role","John Mills","Ryan's Daughter",1.0,787
+1970.0,"actress","Glenda Jackson","Women in Love",1.0,502
+1969.0,"actor","John Wayne","True Grit",1.0,791
+1969.0,"actress","Maggie Smith","The Prime of Miss Jean Brodie",1.0,964
+1969.0,"actress in a supporting role","Goldie Hawn","Cactus Flower",1.0,517
+1969.0,"actor in a supporting role","Gig Young","They Shoot Horses, Don't They?",1.0,496
+1968.0,"actor in a supporting role","Jack Albertson","The Subject Was Roses",1.0,602
+1968.0,"actress in a supporting role","Ruth Gordon","Rosemary's Baby",1.0,1317
+1968.0,"actress","Barbra Streisand","Funny Girl",1.0,125
+1968.0,"actress","Katharine Hepburn","The Lion in Winter",1.0,864
+1968.0,"actor","Cliff Robertson","Charly",1.0,263
+1967.0,"actress in a supporting role","Estelle Parsons","Bonnie and Clyde",1.0,405
+1967.0,"actress","Katharine Hepburn","Guess Who's Coming to Dinner",1.0,863
+1967.0,"actor","Rod Steiger","In the Heat of the Night",1.0,1295
+1967.0,"actor in a supporting role","George Kennedy","Cool Hand Luke",1.0,480
+1966.0,"actress in a supporting role","Sandy Dennis","Who's Afraid of Virginia Woolf?",1.0,1337
+1966.0,"actor in a supporting role","Walter Matthau","The Fortune Cookie",1.0,1503
+1966.0,"actor","Paul Scofield","A Man for All Seasons",1.0,1174
+1966.0,"actress","Elizabeth Taylor","Who's Afraid of Virginia Woolf?",1.0,383
+1965.0,"actress in a supporting role","Shelley Winters","A Patch of Blue",1.0,1352
+1965.0,"actress","Julie Christie","Darling",1.0,834
+1965.0,"actor","Lee Marvin","Cat Ballou",1.0,918
+1965.0,"actor in a supporting role","Martin Balsam","A Thousand Clowns",1.0,1011
+1964.0,"actor","Rex Harrison","My Fair Lady",1.0,1234
+1964.0,"actor in a supporting role","Peter Ustinov","Topkapi",1.0,1206
+1964.0,"actress","Julie Andrews","Mary Poppins",1.0,831
+1964.0,"actress in a supporting role","Lila Kedrova","Zorba the Greek",1.0,935
+1963.0,"actor","Sidney Poitier","Lilies of the Field",1.0,1365
+1963.0,"actress","Patricia Neal","Hud",1.0,1156
+1963.0,"actor in a supporting role","Melvyn Douglas","Hud",1.0,1044
+1963.0,"actress in a supporting role","Margaret Rutherford","The V.I.P.s",1.0,978
+1962.0,"actor in a supporting role","Ed Begley","Sweet Bird of Youth",1.0,353
+1962.0,"actor","Gregory Peck","To Kill a Mockingbird",1.0,535
+1962.0,"actress","Anne Bancroft","The Miracle Worker",1.0,70
+1962.0,"actress in a supporting role","Patty Duke","The Miracle Worker",1.0,1158
+1961.0,"actor in a supporting role","George Chakiris","West Side Story",1.0,475
+1961.0,"actress in a supporting role","Rita Moreno","West Side Story",1.0,1255
+1961.0,"actress","Sophia Loren","Two Women",1.0,1379
+1961.0,"actor","Maximilian Schell","Judgment at Nuremberg",1.0,1033
+1960.0,"actress in a supporting role","Shirley Jones","Elmer Gantry",1.0,1355
+1960.0,"actress","Elizabeth Taylor","Butterfield 8",1.0,382
+1960.0,"actor","Burt Lancaster","Elmer Gantry",1.0,184
+1960.0,"actor in a supporting role","Peter Ustinov","Spartacus",1.0,1205
+1959.0,"actor","Charlton Heston","Ben-Hur",1.0,236
+1959.0,"actor in a supporting role","Hugh Griffith","Ben-Hur",1.0,574
+1959.0,"actress in a supporting role","Shelley Winters","The Diary of Anne Frank",1.0,1351
+1959.0,"actress","Simone Signoret","Room at the Top",1.0,1369
+1958.0,"actress in a supporting role","Wendy Hiller","Separate Tables",1.0,1513
+1958.0,"actor","David Niven","Separate Tables",1.0,291
+1958.0,"actor in a supporting role","Burl Ives","The Big Country",1.0,182
+1958.0,"actress","Susan Hayward","I Want to Live!",1.0,1403
+1957.0,"actor","Alec Guinness","The Bridge on the River Kwai",1.0,34
+1957.0,"actress in a supporting role","Miyoshi Umeki","Sayonara",1.0,1104
+1957.0,"actor in a supporting role","Red Buttons","Sayonara",1.0,1228
+1957.0,"actress","Joanne Woodward","The Three Faces of Eve",1.0,753
+1956.0,"actress in a supporting role","Dorothy Malone","Written on the Wind",1.0,341
+1956.0,"actor","Yul Brynner","The King and I",1.0,1540
+1956.0,"actress","Ingrid Bergman","Anastasia",1.0,591
+1956.0,"actor in a supporting role","Anthony Quinn","Lust for Life",1.0,97
+1955.0,"actor","Ernest Borgnine","Marty",1.0,404
+1955.0,"actor in a supporting role","Jack Lemmon","Mister Roberts",1.0,605
+1955.0,"actress in a supporting role","Jo Van Fleet","East of Eden",1.0,737
+1955.0,"actress","Anna Magnani","The Rose Tattoo",1.0,66
+1954.0,"actor","Marlon Brando","On the Waterfront",1.0,1000
+1954.0,"actress in a supporting role","Eva Marie Saint","On the Waterfront",1.0,414
+1954.0,"actor in a supporting role","Edmond O'Brien","The Barefoot Contessa",1.0,362
+1954.0,"actress","Grace Kelly","The Country Girl",1.0,520
+1953.0,"actor","William Holden","Stalag 17",1.0,1527
+1953.0,"actor in a supporting role","Frank Sinatra","From Here to Eternity",1.0,434
+1953.0,"actress in a supporting role","Donna Reed","From Here to Eternity",1.0,338
+1953.0,"actress","Audrey Hepburn","Roman Holiday",1.0,110
+1952.0,"actress","Shirley Booth","Come Back, Little Sheba",1.0,1354
+1952.0,"actress in a supporting role","Gloria Grahame","The Bad and the Beautiful",1.0,513
+1952.0,"actor in a supporting role","Anthony Quinn","Viva Zapata!",1.0,96
+1952.0,"actor","Gary Cooper","High Noon",1.0,449
+1951.0,"actress in a supporting role","Kim Hunter","A Streetcar Named Desire",1.0,886
+1951.0,"actress","Vivien Leigh","A Streetcar Named Desire",1.0,1493
+1951.0,"actor","Humphrey Bogart","The African Queen",1.0,579
+1951.0,"actor in a supporting role","Karl Malden","A Streetcar Named Desire",1.0,846
+1950.0,"actress","Judy Holliday","Born Yesterday",1.0,823
+1950.0,"actress in a supporting role","Josephine Hull","Harvey",1.0,804
+1950.0,"actor","Jos� Ferrer","Cyrano de Bergerac",1.0,801
+1950.0,"actor in a supporting role","George Sanders","All about Eve",1.0,481
+1949.0,"actress in a supporting role","Mercedes McCambridge","All the King's Men",1.0,1047
+1949.0,"actress","Olivia de Havilland","The Heiress",1.0,1147
+1949.0,"actor","Broderick Crawford","All the King's Men",1.0,177
+1949.0,"actor in a supporting role","Dean Jagger","Twelve O'Clock High",1.0,294
+1948.0,"actor","Laurence Olivier","Hamlet",1.0,906
+1948.0,"actress in a supporting role","Claire Trevor","Key Largo",1.0,255
+1948.0,"actress","Jane Wyman","Johnny Belinda",1.0,680
+1948.0,"actor in a supporting role","Walter Huston","The Treasure of the Sierra Madre",1.0,1502
+1947.0,"actress","Loretta Young","The Farmer's Daughter",1.0,946
+1947.0,"actress in a supporting role","Celeste Holm","Gentleman's Agreement",1.0,216
+1947.0,"actor in a supporting role","Edmund Gwenn","Miracle on 34th Street",1.0,364
+1947.0,"actor","Ronald Colman","A Double Life",1.0,1299
+1946.0,"actress","Olivia de Havilland","To Each His Own",1.0,1145
+1946.0,"actress in a supporting role","Anne Baxter","The Razor's Edge",1.0,75
+1946.0,"actor","Fredric March","The Best Years of Our Lives",1.0,439
+1946.0,"actor in a supporting role","Harold Russell","The Best Years of Our Lives",1.0,545
+1945.0,"actor in a supporting role","James Dunn","A Tree Grows in Brooklyn",1.0,646
+1945.0,"actor","Ray Milland","The Lost Weekend",1.0,1226
+1945.0,"actress","Joan Crawford","Mildred Pierce",1.0,742
+1945.0,"actress in a supporting role","Anne Revere","National Velvet",1.0,81
+1944.0,"actor in a supporting role","Barry Fitzgerald","Going My Way",1.0,128
+1944.0,"actor","Bing Crosby","Going My Way",1.0,159
+1944.0,"actress","Ingrid Bergman","Gaslight",1.0,588
+1944.0,"actress in a supporting role","Ethel Barrymore","None but the Lonely Heart",1.0,408
+1943.0,"actress in a supporting role","Katina Paxinou","For Whom the Bell Tolls",1.0,872
+1943.0,"actress","Jennifer Jones","The Song of Bernadette",1.0,712
+1943.0,"actor in a supporting role","Charles Coburn","The More the Merrier",1.0,229
+1943.0,"actor","Paul Lukas","Watch on the Rhine",1.0,1161
+1942.0,"actor","James Cagney","Yankee Doodle Dandy",1.0,639
+1942.0,"actress in a supporting role","Teresa Wright","Mrs. Miniver",1.0,1426
+1942.0,"actor in a supporting role","Van Heflin","Johnny Eager",1.0,1475
+1942.0,"actress","Greer Garson","Mrs. Miniver",1.0,525
+1941.0,"actor","Gary Cooper","Sergeant York",1.0,446
+1941.0,"actress","Joan Fontaine","Suspicion",1.0,748
+1941.0,"actress in a supporting role","Mary Astor","The Great Lie",1.0,1015
+1941.0,"actor in a supporting role","Donald Crisp","How Green Was My Valley",1.0,337
+1940.0,"actor in a supporting role","Walter Brennan","The Westerner",1.0,1497
+1940.0,"actress","Ginger Rogers","Kitty Foyle",1.0,497
+1940.0,"actress in a supporting role","Jane Darwell","The Grapes of Wrath",1.0,671
+1940.0,"actor","James Stewart","The Philadelphia Story",1.0,656
+1939.0,"actress","Vivien Leigh","Gone with the Wind",1.0,1492
+1939.0,"actor in a supporting role","Thomas Mitchell","Stagecoach",1.0,1441
+1939.0,"actor","Robert Donat","Goodbye, Mr. Chips",1.0,1265
+1939.0,"actress in a supporting role","Hattie McDaniel","Gone with the Wind",1.0,549
+1938.0,"actress in a supporting role","Fay Bainter","Jezebel",1.0,418
+1938.0,"actress","Bette Davis","Jezebel",1.0,142
+1938.0,"actor","Spencer Tracy","Boys Town",1.0,1384
+1938.0,"actor in a supporting role","Walter Brennan","Kentucky",1.0,1496
+1937.0,"actress in a supporting role","Alice Brady","In Old Chicago",1.0,41
+1937.0,"actress","Luise Rainer","The Good Earth",1.0,955
+1937.0,"actor in a supporting role","Joseph Schildkraut","The Life of Emile Zola",1.0,803
+1937.0,"actor","Spencer Tracy","Captains Courageous",1.0,1383
+1936.0,"actress","Luise Rainer","The Great Ziegfeld",1.0,954
+1936.0,"actress in a supporting role","Gale Sondergaard","Anthony Adverse",1.0,442
+1936.0,"actor in a supporting role","Walter Brennan","Come and Get It",1.0,1495
+1936.0,"actor","Paul Muni","The Story of Louis Pasteur",1.0,1162
